@@ -1,0 +1,3 @@
+Miranda NG
+  Website: https://www.miranda-ng.org/en/
+  Source code: https://github.com/miranda-ng/miranda-ng/
