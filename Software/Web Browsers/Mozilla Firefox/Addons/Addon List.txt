@@ -1,5 +1,11 @@
 This info about addons for Mozilla Firefox and based-on bowsers with XUL support.
 
+NoScript
+  Website:
+  Source code:
 ScrapBook
   Website: http://www.xuldev.org/scrapbook/
   Source code: https://github.com/danny0838/firefox-scrapbook
+Stylish
+  Website:
+  Source code:
