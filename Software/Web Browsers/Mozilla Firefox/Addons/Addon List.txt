@@ -1,5 +1,8 @@
 This info about addons for Mozilla Firefox and based-on bowsers with XUL support.
 
+AnonymoX
+  Website:
+  Source code:
 NoScript
   Website:
   Source code:
