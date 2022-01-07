@@ -2,7 +2,7 @@
 .NET Framework 4.0
 Adobe Photoshop CS4 (Service Pack 2) CS6 (Service Pack 3)
 Adobe Premiere Pro CS4
-Arctic Fox (Web browser)
+Arctic Fox (Web browser) [Attention! Critial issues: 27.11.0 does not save history and session if browser crashes]
   Source code: https://github.com/wicknix/Arctic-Fox
 Colobo (Game)
   Source code: https://github.com/colobot/colobot
