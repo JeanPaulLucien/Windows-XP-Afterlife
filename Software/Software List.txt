@@ -17,7 +17,8 @@ Miranda NG
   Source code: https://github.com/miranda-ng/miranda-ng/
  
  
- 
+
+Telegram (There is no workable official client for Windows XP)
 
 Visual Studio 2010
 Unity 5.2.4 f1
