@@ -5,7 +5,8 @@ Adobe Premiere Pro CS4
 Arctic Fox (Web browser) [Attention! 27.11.0 does not save history and session]
   When started in first time: https://support.mozilla.org/en-US/questions/980789
   Source code: https://github.com/wicknix/Arctic-Fox
-Colobo (Game)
+Ashampoo Snap 6 (This is not the last version, but this version works)
+Colobot (Game)
   Source code: https://github.com/colobot/colobot
 ffmpeg- 20150525-git-8ce564e
 Filezilla 3.8.0
