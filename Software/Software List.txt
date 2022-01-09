@@ -18,8 +18,7 @@ Miranda NG
   Website: https://www.miranda-ng.org/en/
   Source code: https://github.com/miranda-ng/miranda-ng/
  
- 
-
+Sublime Text 3.2.2 (32-bit)
 Telegram (There is no workable official client for Windows XP)
 
 Visual Studio 2010
