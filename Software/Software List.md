@@ -1,0 +1,49 @@
+# Software List
+
+### .NET Framework 4.0
+
+### Adobe Photoshop CS4 (Service Pack 2) CS6 (Service Pack 3)
+
+### Adobe Premiere Pro CS4
+
+### Arctic Fox (Web browser) [Attention! 27.11.0 does not save history and session]
+  
+  When started in first time: https://support.mozilla.org/en-US/questions/980789
+  
+  Source code: https://github.com/wicknix/Arctic-Fox
+
+### Ashampoo Snap 6 (This is not the last version, but this version works)
+
+### Colobot (Game)
+  
+  Source code: https://github.com/colobot/colobot
+
+### ffmpeg- 20150525-git-8ce564e
+
+### Filezilla 3.8.0
+
+### Google Chrome 49 (49.0.2623.112)
+
+### Intel Solid-State Drive Toolbox version 3.3.7
+
+### K-Meleon 76 RC (still current) 
+
+### Miranda NG
+  
+  Website: https://www.miranda-ng.org/en/
+  
+  Source code: https://github.com/miranda-ng/miranda-ng/
+ 
+### Sublime Text 3.2.2 (32-bit)
+
+### Telegram (There is no workable official client for Windows XP)
+
+### Visual Studio 2010
+
+### Unity 5.2.4 f1
+
+### Xmedia Recode 3.2.7.1
+
+## Contributors
+### FranceBB
+### sastofficial
