@@ -1,1 +1,5 @@
 Панель управления -> Назначенные задания
+
+Неактуальны (слишком часты):
+Обновление Браузера Яндекс - "C:\Documents and Settings\UN\Local Settings\Application Data\Yandex\YandexBrowser\Application\browser.exe"  --background-update --noerrdialogs
+
