@@ -30,6 +30,9 @@ Mypal Browser
   Website: https://mypal-browser.org/
   Source Code: https://github.com/manchildproductiOns/mypAl
 
+Python 2.7.10
+  Download: https://www.python.org/downloads/release/python-2710/
+
 ## Contributors
 ## FranceBB
 // https://www.comss.ru/page.php?id=8828
