@@ -1,4 +1,5 @@
 ## HTTP(S) works with Internet Explorer 8
+mail.ru
 yandex.ru
 
 ## Does not work, handshake_failure
@@ -15,11 +16,11 @@ IE 8 / XP   No FS 1	  No SNI 2		Incorrect certificate because this client doesn'
 RSA 2048 (SHA256)   |  TLS 1.0  |  TLS_RSA_WITH_3DES_EDE_CBC_SHA
 IE 8-10 / Win 7  R		RSA 2048 (SHA256)   	TLS 1.0 	TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA   ECDH secp256r1  FS 
 
-## Does not workd (Protocol mismatch), TLS 1.2+ and FS, SNI
-### habr.com
+## TSL 1.2 websites
+habr.com
 IE 6 / XP   No FS 1	  No SNI 2
 IE 7 / Vista
-IE 8 / XP   No FS 1	  No SNI 2
+IE 8 / XP   No FS 1	  No SNI 2bv
 IE 8-10 / Win 7  R
 
 lifewire.com
@@ -27,3 +28,12 @@ IE 6 / XP   No FS 1	  No SNI 2		Protocol mismatch (not simulated)
 IE 7 / Vista 	Protocol mismatch (not simulated)
 IE 8 / XP   No FS 1	  No SNI 2		Protocol mismatch (not simulated)
 IE 8-10 / Win 7  R		Protocol mismatch (not simulated)
+
+microsoft.com
+IE 6 / XP   No FS 1	  No SNI 2		Protocol mismatch (not simulated)
+IE 7 / Vista 	Protocol mismatch (not simulated)
+IE 8 / XP   No FS 1	  No SNI 2		Protocol mismatch (not simulated)
+IE 8-10 / Win 7  R		Protocol mismatch (not simulated)
+
+
+gg
