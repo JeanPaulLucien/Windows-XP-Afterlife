@@ -1,0 +1,23 @@
+## HTTP(S) works with Internet Explorer 8
+yandex.ru
+
+## Does not work, handshake_failure
+pikabu.ru
+IE 7 / Vista 	RSA 2048 (SHA256)   	TLS 1.0 	TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA   ECDH secp256r1  FS
+IE 8 / XP   No FS 1	  No SNI 2		Server sent fatal alert: handshake_failure
+IE 8-10 / Win 7  R		RSA 2048 (SHA256)   	TLS 1.0 	TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA   ECDH secp256r1  FS 
+## Does not work. Needs TLS 1.2 + 
+
+
+## Does not workd (Protocol mismatch), TLS 1.2+ and FS, SNI
+### habr.com
+IE 6 / XP   No FS 1	  No SNI 2
+IE 7 / Vista
+IE 8 / XP   No FS 1	  No SNI 2
+IE 8-10 / Win 7  R
+
+lifewire.com
+IE 6 / XP   No FS 1	  No SNI 2		Protocol mismatch (not simulated)
+IE 7 / Vista 	Protocol mismatch (not simulated)
+IE 8 / XP   No FS 1	  No SNI 2		Protocol mismatch (not simulated)
+IE 8-10 / Win 7  R		Protocol mismatch (not simulated)
