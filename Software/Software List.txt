@@ -18,6 +18,12 @@ Miranda NG
   Website: https://www.miranda-ng.org/en/
   Source code: https://github.com/miranda-ng/miranda-ng/
 
+Python 2.7.10
+  Download: https://www.python.org/downloads/release/python-2710/
+Python 3.5+
+  https://alex-free.github.io/winxp_python3.6.15/
+Python 3.7+
+  https://github.com/fontforge/fontforge
  
 Sublime Text 3.2.2 (32-bit)
 Telegram (There is no workable official client for Windows XP)
@@ -30,8 +36,7 @@ Mypal Browser
   Website: https://mypal-browser.org/
   Source Code: https://github.com/manchildproductiOns/mypAl
 
-Python 2.7.10
-  Download: https://www.python.org/downloads/release/python-2710/
+
 
 ## Contributors
 ## FranceBB
