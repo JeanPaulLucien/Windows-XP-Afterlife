@@ -1,0 +1,19 @@
+# Windows XP - How to 2022
+Windows XP from the box is not usable. You need to collect some updates, install that and change settings.
+
+## IPv6
+Windows XP supports IPv6, it needs additional setup.
+
+## RAM over 4 GBs
+Windows XP supports over 4GBs, it need additional setup
+
+## Service Packs
+JeanPaulLucien strongly recommends use Windows XP with Service Pack 3. JeanPaulLucien does and checks everything on Windows XP with Service Pack 3. JeanPaulLucien does not know what's going on Windows XP with Service Pack 2, 1 or without Service Pack.
+
+## TLS 1.2
+Windows XP supports TLS 1.2, it need additional setup
+### Internet Explorer 8
+IE 8 does not support TLS 1.2. You can use it's for http.
+
+## USB 3.0
+Windows XP supports USB 3.0, it needs additional setup.
