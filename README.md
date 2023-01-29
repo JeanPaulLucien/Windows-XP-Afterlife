@@ -1,5 +1,5 @@
 # Windows-XP-Afterlife
-How to use Windows XP operation system after 2019.
+How to use Windows XP after 2019. Information about setting and software for Windows XP. If your software work on Windows XP, create pull request.
 
 ## How to enjoy
 If you are newbie and wanna to try Windows XP, JeanPaulLucien strongly recommend to read Prepare to work.txt.
