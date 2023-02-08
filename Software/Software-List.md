@@ -1,6 +1,8 @@
-
+<pre>
 .NET Framework 4.0
+
 Adobe Photoshop CS4 (Service Pack 2) CS6 (Service Pack 3)
+
 Adobe Premiere Pro CS4
 Arctic Fox (Web browser) [Attention! 27.11.0 does not save history and session]
   When started in first time: https://support.mozilla.org/en-US/questions/980789
@@ -54,7 +56,7 @@ Mypal Browser
 
 
 ## Contributors
-## FranceBB
+### FranceBB
 // https://www.comss.ru/page.php?id=8828
-
+</pre>
 
