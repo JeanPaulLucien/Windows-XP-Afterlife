@@ -31,6 +31,8 @@ Python 3.5+
   https://alex-free.github.io/winxp_python3.6.15/
 Python 3.7+
   https://github.com/fontforge/fontforge
+Python 3.7.1
+  Download: https://www114.zippyshare.com/v/FBBJz5vw/file.html
  
 Sublime Text 3.2.2 (32-bit)
 Telegram (There is no workable official client for Windows XP)
