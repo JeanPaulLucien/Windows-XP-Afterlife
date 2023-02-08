@@ -24,6 +24,9 @@ Miranda NG
 
 Python 2.7.10
   Download: https://www.python.org/downloads/release/python-2710/
+Python 3.4.10 (not official pre-compiled + pip, setuptools and wheel)
+  Page: http://matejhorvat.si/en/windows/python/index.htm
+  Download: http://matejhorvat.si/en/windows/python/py3-4-10.zip
 Python 3.5+
   https://alex-free.github.io/winxp_python3.6.15/
 Python 3.7+
