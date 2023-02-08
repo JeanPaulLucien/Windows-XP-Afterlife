@@ -1,8 +1,6 @@
 <pre>
 .NET Framework 4.0
-
 Adobe Photoshop CS4 (Service Pack 2) CS6 (Service Pack 3)
-
 Adobe Premiere Pro CS4
 Arctic Fox (Web browser) [Attention! 27.11.0 does not save history and session]
   When started in first time: https://support.mozilla.org/en-US/questions/980789
@@ -47,6 +45,9 @@ uTox 0.17.2 (Tox client)
   Url: https://github.com/blueclouds8666/uTox_XP
 Xmedia Recode 3.2.7.1
 
+XomPie (upgrade for Windows XP to launch new software)
+  Url: https://github.com/tumagonx/XomPie
+  You may use that to launch Pythin 3.5+
 
 
 Mypal Browser
