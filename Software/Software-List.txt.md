@@ -29,10 +29,13 @@ Python 3.4.10 (not official pre-compiled + pip, setuptools and wheel)
   Download: http://matejhorvat.si/en/windows/python/py3-4-10.zip
 Python 3.5+
   https://alex-free.github.io/winxp_python3.6.15/
+  https://drive.google.com/open?id=0BwiHllHhj79zaF9faEVsQUsxNDQ
 Python 3.7+
   https://github.com/fontforge/fontforge
 Python 3.7.1
   Download: https://www114.zippyshare.com/v/FBBJz5vw/file.html
+  https://retrosystemsrevival.blogspot.com/2021/01/python-371-for-windows-xp.html
+  https://ntcore.com/?p=458
  
 Sublime Text 3.2.2 (32-bit)
 Telegram (There is no workable official client for Windows XP)
