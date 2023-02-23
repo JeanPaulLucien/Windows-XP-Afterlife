@@ -4,7 +4,8 @@
       I have created this repository to collect all information about Windows XP after 2019 year.<br>
       How to use Windows XP after 2019. Information about settings and software for Windows XP. If your software works on Windows XP, create pull request.
     <h2>How to enjoy</h2>
-      If you are newbie and wanna to try Windows XP, JeanPaulLucien strongly recommend to read <a href=''>Prepare to work.txt</a>.
+      We are welcome anybody who still use Windows XP or wanna to install XP on nowadays hardware.<br>
+      If you are newbie and wanna use Windows XP, JeanPaulLucien strongly recommend to read <a href=''>Prepare to work.txt</a>.
     <h2>How to contribute</h2>
     <ol>
       <li>Create issues if you has a problem with Windows XP and look for solution.</li>
