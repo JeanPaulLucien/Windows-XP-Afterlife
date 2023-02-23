@@ -8,6 +8,7 @@
       If you are newbie and wanna use Windows XP, JeanPaulLucien strongly recommend to read <a href=''>Prepare to work.txt</a>.
     <h2>How to contribute</h2>
     <ol>
+      <li>Create issue if you have problem untill installed XP.</li>
       <li>Create issues if you has a problem with Windows XP and look for solution.</li>
       <li>Create pull requests to add new information, software, files, fixes.</li>
     </ol>
