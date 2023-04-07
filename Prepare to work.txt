@@ -1,5 +1,8 @@
 # Windows XP - How to 2022
-Windows XP from the box is not usable. You need to collect some updates, install that and change settings.
+Some features is disabled by default in Windows XP. You need to collect some updates, install that and change settings.
+
+## .NET Framework
+Software often requires various versions of Framework. Collect and install next versions: 2, 3, 3.5, 4 and 4.5.1. 
 
 ## IPv6
 Windows XP supports IPv6, it needs additional setup.
