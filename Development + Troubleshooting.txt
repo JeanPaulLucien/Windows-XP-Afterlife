@@ -1,0 +1,9 @@
+Author: JeanPaulLucien
+Initial date: 10 November 2023
+Update date: 10 November 2023
+
+<h3>bcrypt.dll</h3>
+<ul>
+<li>You can use something instead bcrypt.dll, 3rd party and open source solutions.</li>
+<li>If you still wish to hold on build-in Windows DLL: https://github.com/Blaukovitch/bcrypt-XP/</li>
+
